@@ -1,5 +1,5 @@
 # codespaces-quickstart
-Get started with Rasa Pro in the browser using GitHub Codespaces.
+Get started with Rasa in the browser using GitHub Codespaces.
 
 ### Steps
 
